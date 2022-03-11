@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Silas\source\repos\ServerAnwendung\ServerAnwendung\main.cpp(42,13): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+  Code wird generiert.
+  2 of 14 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  ServerAnwendung.vcxproj -> C:\Users\Silas\source\repos\ServerAnwendung\x64\Release\ServerAnwendung.exe

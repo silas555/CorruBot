@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Silas\source\repos\ServerAnwendung\ServerAnwendung\main.cpp(13,39): warning C4305: "Initialisierung": Verkürzung von "__int64" in "DWORD"
+C:\Users\Silas\source\repos\ServerAnwendung\ServerAnwendung\main.cpp(13,25): warning C4309: "Initialisierung": Verkürzung eines konstanten Wertes
+C:\Users\Silas\source\repos\ServerAnwendung\ServerAnwendung\main.cpp(25,13): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+  ServerAnwendung.vcxproj -> C:\Users\Silas\source\repos\ServerAnwendung\Debug\ServerAnwendung.exe

@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Silas\source\repos\ServerAnwendung\ServerAnwendung\main.cpp(38,13): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+  ServerAnwendung.vcxproj -> C:\Users\Silas\source\repos\ServerAnwendung\x64\Debug\ServerAnwendung.exe
